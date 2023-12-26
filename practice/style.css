@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    background: #3e3e3e;
+}
+
+.A {
+    position: absolute;
+    display: flex;
+    top: 100px;
+    left: 50px;
+    width: 100px;
+    height: 50px;
+    border-top-left-radius: 50%;
+    border-bottom-left-radius: 50%;
+    background: #000;
+}
